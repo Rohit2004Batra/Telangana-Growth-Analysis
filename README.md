@@ -24,16 +24,7 @@ Vehicle Sales Trends: Petrol vehicles dominate sales, especially during the fest
 Sectoral Investments: The pharmaceutical and chemical sectors, driven by the pandemic, have attracted substantial investments across multiple districts.
 Top Investment Districts: Rangareddy, Medchal_Malkajgiri, and Sangareddy have emerged as key districts for investments.
 Usage
-To explore the insights provided in this repository:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/telangana-growth-analysis-insights.git
-Navigate to the directory:
-bash
-Copy code
-cd telangana-growth-analysis-insights
 Explore the data and insights: Detailed analysis and visualizations are available in the respective directories.
 Contributing
 Contributions are welcome! If you have insights, data, or visualizations that could enrich this analysis, feel free to open a pull request or issue.
